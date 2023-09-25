@@ -21,6 +21,7 @@
 	方式一：通过底部联系我们后面的微信群加入群聊，获取安装文件。
 	方式二：扫码下载（用微信扫码选择用浏览器打开，下载安装）。
 ![](https://github.com/goodboybbc/goldapple/blob/main/%E5%BA%94%E7%94%A8%E5%9B%BE/downcode.png)
+
 项目截图
 --
 ![](https://github.com/goodboybbc/goldapple/blob/main/%E5%BA%94%E7%94%A8%E5%9B%BE/1.jpg)
